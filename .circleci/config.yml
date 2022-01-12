@@ -69,7 +69,7 @@
 
 
 
-      - run: composer install -n --prefer-dist
+      - run: composer install -n --prefer-dist --ignore-platform-reqs
 
 
 
