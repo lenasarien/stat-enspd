@@ -11,7 +11,7 @@
 
       # specify the version you desire here
 
-      - image: circleci/php:7.2
+      - image: circleci/php:7.3
 
       - image: circleci/mysql:5.7
 
